@@ -9,9 +9,6 @@ A real-time face mask detection project using TensorFlow and OpenCV, which utili
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
-- [Installation](#installation)
-- [How it Works](#how-it-works)
-- [Training Your Model](#training-your-model)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
@@ -38,4 +35,26 @@ The Real-Time Face Mask Detection project is a practical application of computer
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Yomna-moustafa/Face_Mask_Detection-.git
+   git clone https://github.com/Yomna-moustafa/real-time-mask-detection.git
+2. Install the required Python packages   
+3. Download the pre-trained MobileNetV2 model weights (face_mask_detection.model) and place it in the project directory.
+4. Download the face detection model files (deploy.prototxt and res10_300x300_ssd_iter_140000.caffemodel) and place them in the face_detector directory.
+
+## How it Works
+
+To use this project for real-time face mask detection with your webcam, follow these steps:
+
+1. Run the following command to start real-time face mask detection using your webcam:
+
+   ```bash
+   python face_mask_detection.py  
+2. The application will open a window displaying the webcam feed.
+3. It will analyze each frame, detect faces, and classify them based on mask-wearing status.
+4. Detected faces will be annotated with text and bounding boxes indicating whether they are wearing masks or not.
+5. Press 's' to stop the video stream and close the window.
+
+You can copy and paste this Markdown text into your document.
+## Acknowledgments
+
+This project was created as a learning exercise and is inspired by various tutorials and resources available online.
+
