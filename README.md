@@ -9,6 +9,8 @@ A real-time face mask detection project using TensorFlow and OpenCV, which utili
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
+- [Installation](#installation)
+- [How it Works](#how-it-works)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
