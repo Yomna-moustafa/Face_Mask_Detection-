@@ -55,7 +55,7 @@ To use this project for real-time face mask detection with your webcam, follow t
 4. Detected faces will be annotated with text and bounding boxes indicating whether they are wearing masks or not.
 5. Press 's' to stop the video stream and close the window.
 
-You can copy and paste this Markdown text into your document.
+
 ## Acknowledgments
 
 This project was created as a learning exercise and is inspired by various tutorials and resources available online.
