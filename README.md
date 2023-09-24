@@ -2,7 +2,7 @@
 
 A real-time face mask detection project using TensorFlow and OpenCV, which utilizes a pre-trained MobileNetV2 model to identify faces and determine whether a person is wearing a mask or not. This project is designed to help in enforcing safety measures during the COVID-19 pandemic.
 
-![Example (for illustration purposes only)](example.png)
+![Example (example (2).png)(example.png)
 
 ## Table of Contents
 
