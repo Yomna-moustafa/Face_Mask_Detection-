@@ -38,4 +38,4 @@ The Real-Time Face Mask Detection project is a practical application of computer
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Yomna-moustafa/real-time-mask-detection.git
+   git clone https://github.com/Yomna-moustafa/Face_Mask_Detection-.git
